@@ -12,7 +12,7 @@ public class App {
         String vastaus;
             
         System.out.println("Tervetuloa pelaamaan LUCKY7- peliä!");
-        System.out.println("Tässä ohjeet : Sinulla on aluksi 5 euroa, voitat lisää rahaa pelin aikana aina kun saat onnenseiskan. Voit pelata niin pitkään, kun rahasi riittää. ");
+        System.out.println("Ohjeet : Sinulla on 5 euroa, ja voit pelata niin pitkään, kun rahat riittää.");
         System.out.println("Jos saat 1x 7, voitat 2 euroa, jos saat 2x 7 voitat 3 euroa, jos saat 3x 7 voitat 10 EUROA!");
         System.out.println("Onnea peliin!");
 
